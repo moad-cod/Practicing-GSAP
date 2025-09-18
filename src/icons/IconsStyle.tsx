@@ -1,6 +1,7 @@
 import React from 'react'
 
 const IconsStyle = () => {
+    
   return (
     <ul className="w-64 flex flex-col gap-1 pl-1">
         {/* Instagram */}
